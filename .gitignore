@@ -1,0 +1,6 @@
+/airflow.env
+/airflow_env
+/config
+/Dockerfile
+/logs
+/plugins
