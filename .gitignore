@@ -1,6 +1,6 @@
-/airflow.env
-/airflow_env
+/.env
+/venv
 /config
 /Dockerfile
 /logs
-/plugins
+/py_cache
